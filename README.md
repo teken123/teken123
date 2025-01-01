@@ -28,6 +28,7 @@ I love solving complex problems and participating in hackathons. In my free time
 
 ## 📈 GitHub Stats
 ![Teken's GitHub stats](https://github-readme-stats.vercel.app/api?username=teken123&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=teken123&theme=radical)](https://git.io/streak-stats)
 
 ## 🔗 My Projects
 - **Project 1**: [Awesome Project](https://github.com/teken123/awesome-project) - A brief description of what this project does.
